@@ -1,0 +1,43 @@
+** start of index.html **
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Banana Bread</title>
+    <meta charset="UTF-8">
+  </head>
+
+  <body>
+    <h1>Banana Bread</h1>
+    <p>A moist and flavorful banana bread that's easy to make and always a crowd-pleaser. Enjoy it for breakfast, as a snack, or even dessert!</p>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="eggs, milk in cup and other stuff is visible in picture">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1 cup mashed ripe bananas (about 2–3 bananas)</li>
+      <li>1 1/2 cups all-purpose flour</li>
+      <li>1/2 cup granulated sugar</li>
+      <li>1/4 cup melted butter (or vegetable oil)</li>
+      <li>1 large egg</li>
+      <li>1 teaspoon vanilla extract</li>
+      <li>1 teaspoon baking soda</li>
+      <li>1/2 teaspoon salt</li>
+      <li>Optional: 1/2 cup chopped walnuts or chocolate chips</li>
+    </ul>
+
+    <h2>Instructions</h2>
+    <ol>
+      <li>Preheat your oven to 350°F (175°C). Grease a 9x5-inch loaf pan or line it with parchment paper.</li>
+      <li>In a large bowl, mash the bananas with a fork until smooth.</li>
+      <li>Add the melted butter, sugar, egg, and vanilla extract to the bananas. Mix until well combined.</li>
+      <li>In a separate bowl, whisk together the flour, baking soda, and salt.</li>
+      <li>Gradually add the dry ingredients to the banana mixture, stirring gently until just combined. If using, fold in walnuts or chocolate chips.</li>
+      <li>Pour the batter into the prepared loaf pan and smooth the top.</li>
+      <li>Bake for 50–60 minutes, or until a toothpick inserted into the center comes out clean.</li>
+      <li>Allow the banana bread to cool in the pan for 10 minutes. Remove from the pan and cool completely before slicing.</li>
+    </ol>
+  </body>
+</html>
+
+** end of index.html **
+
