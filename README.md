@@ -10,6 +10,7 @@
     <p>I share my freeCodeCamp Projects along the way I keep learning about the web development. I will be sharing my all the projects that will included in my Full Stack Web Development course.</p>
   <ol>
     <li> <a href="https://gurtesh.github.io/freeCodeCamp-projects/build-a-recipe-page.html">Banana Bread recipe</a> </li>
+    <li> <a href="https://gurtesh.github.io/freeCodeCamp-projects/build-a-travel-agency-page.html">Travel Agency Page</li>
   </ol>
   </body>
   <footer>
